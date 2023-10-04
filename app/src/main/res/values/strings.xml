@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="username">UserName</string>
+    <string name="searchbar_hint">Search Here</string>
+    <string name="nama_user">Nama User</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <string name="content_tab_text">This is Tab %1$d</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ini_tab">Ini Tab</string>
+    <string name="jumlah_followers">jumlah followers</string>
+    <string name="jumlah_following">jumlah following</string>
+    <string name="username_user">username user</string>
+    <string name="followers_count">%d Followers</string>
+    <string name="following_count">%d Following</string>
+    <string name="menu_3dots">menu</string>
+</resources>
